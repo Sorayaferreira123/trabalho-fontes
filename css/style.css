@@ -1,0 +1,152 @@
+body{
+    margin: 0;
+    background-color: #fff5f6;
+    color: #444;
+}
+header{
+    background-color: #d98b9c;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-family:'Times New Roman', Times, serif;
+}
+header h1{
+    font-size: 38px;
+}
+header p{
+    font-size: 18px;
+    font-family: Dancing Script, cursive;
+}
+nav a{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #743c4c;
+    text-decoration: none;
+    margin: 15px;
+}
+main{
+    width: 80%;
+    margin: 30px;
+}
+section{
+    background-color: white;
+    padding: 25px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+section h2{
+    color: #bd687e;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+}
+.produto{
+    background-color: #fff0f2;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.produto h3{
+    color: #a64d66;
+    font-size: 20px;
+}
+.produto p{
+    font-size: 15px;
+}
+.preco{
+    color: #b34d69;
+    font-size: 20%;
+    font-weight: bold;
+}
+.produto1{
+    background-color: #fff0f2;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.produto1 h3{
+    color: #a64d66;
+    font-size: 20px;
+}
+.produto2{
+    background-color: #fff0f2;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.produto2 h3{
+    color: #a64d66;
+    font-size: 20px;
+}
+.produto3{
+    background-color: #fff0f2;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.produto3 h3{
+    color: #a64d66;
+    font-size: 20px;
+}
+.produto4{
+    background-color: #fff0f2;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.produto4 h3{
+   color: #a64d66;
+   font-size: 20px; 
+}
+.produto5{
+    background-color: #fff0f2;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.produto5 h3{
+   color: #a64d66;
+   font-size: 20px; 
+}
+nav{
+    text-align: center;
+    margin: 5px;
+}
+footer{
+    background-color: #d98b9c;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.produto img{
+    width: 190px;
+    height: 190px;
+}
+.produto1 img{
+    width: 190px;
+    height: 190px;
+}
+.produto2 img{
+    width: 190px;
+    height: 190px;
+}
+.produto3 img{
+    width: 190px;
+    height: 190px;
+}
+.produto4 img{
+    width: 190px;
+    height: 190px;
+}
+.produto5 img{
+    width: 190px;
+    height: 190px;
+}
+footer p{
+    font-family: 'Courier New', Courier, monospace;
+}
